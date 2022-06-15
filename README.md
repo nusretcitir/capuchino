@@ -7,4 +7,6 @@ code refactor 1
 visual
 visual 1
 
+redux
+
 folder
