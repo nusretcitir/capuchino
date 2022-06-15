@@ -8,3 +8,5 @@ visual
 visual 1
 
 folder
+
+deneme
