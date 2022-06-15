@@ -10,3 +10,7 @@ visual 1
 redux
 
 folder
+
+css
+
+deneme
